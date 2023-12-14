@@ -15,6 +15,10 @@ Benefits Section - Replaced div class=benefits with section class=benefits.
 Footer - Replaced div class=footer with footer.
 
 
+## Why Semantic Refactorization?
 
+Improve readability - The use of semantic elements enhances code readability.
+
+Accessibility - semantic HTML improves accessibility for users relying on assistive Technology.
 
 
