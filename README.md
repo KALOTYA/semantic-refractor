@@ -1,4 +1,4 @@
 # semantic-refractor
-A study in refactoring HTML semantics
+This project  is a study in refactoring HTML semantics.
 
-There are changes happening
+## Changes
